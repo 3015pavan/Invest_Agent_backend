@@ -7,14 +7,7 @@ yarn-error.log*
 # Environment variables
 .env
 
-# Logs
-logs
-*.log
-log/
-pids
-*.pid
-*.seed
-*.pid.lock
+
 
 # Build files
 dist/
